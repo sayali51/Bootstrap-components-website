@@ -171,6 +171,7 @@ It can be used as a **template base** for commercial and professional projects w
 
 **Sayali Kale**  
 Computer Engineering Student  
-Frontend Developer    
+Frontend Developer   
+📫 Contact Connect with me on www.linkedin.com/in/sayali-kale-42001a2b1
 Technology Learner  
   
