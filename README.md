@@ -173,6 +173,6 @@ It can be used as a **template base** for commercial and professional projects w
 Computer Engineering Student  
 Frontend Developer   
 Technology Learner
-📫 Contact Connect with me on LinkedIn: www.linkedin.com/in/sayali-kale-42001a2b1
+Contact Connect with me on LinkedIn: www.linkedin.com/in/sayali-kale-42001a2b1
   
   
